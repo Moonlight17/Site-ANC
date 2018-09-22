@@ -1,0 +1,164 @@
+body{
+	padding-top: 50px;
+	width: 100%;
+	height: 100%;
+/*	min-width: 1024px;
+    max-width: 1920px;*/
+	background: linear-gradient(90deg, #000000, #707070, #000000);
+}
+/*html {
+	overflow-y: scroll;
+}*/
+
+									/*ЗАО "АНЦ"*/
+#fullpage div.section:nth-child(1){
+	background-image: url('../img/Font.jpg') ;
+	background-size: cover;}
+									/*Акционерное общество «Астрономический научный центр»*/
+#fullpage div.section:nth-child(2){
+	background-image: url('../img/blue.jpg') ;
+	background-size: cover;}
+									/*Пример работы телескопов*/
+#fullpage div.section:nth-child(3){
+	background-image: url('../img/Earth.jpg') ;
+	background-size: cover;}
+									/*ЭОП-1*/
+#fullpage div.section:nth-child(4){
+	background-image: url('../img/Blue Tuman.jpg') ;
+	background-size: cover;}
+									/*ЭОП-2*/
+#fullpage div.section:nth-child(5){
+	background-image: url('../img/туманность.jpg') ;
+	background-size: cover;}
+									/*ЭОПЫ*/
+#fullpage div.section:nth-child(6){
+	background-image: url('../img/Nebo.jpg') ;
+	background-size: cover;}
+									/*Экспериментальная база АНЦ*/
+#fullpage div.section:nth-child(7){
+	background-image: url('../img/Вид из космоса.jpg') ;
+	background-size: cover;}
+									/*          */
+#fullpage div.section:nth-child(8){
+	background-image: url('../img/небо над лесом.jpg') ;
+	background-size: cover;}
+									/*          */
+#fullpage div.section:nth-child(9){
+	background-image: url('../img/Солнечное затмение.jpg') ;
+	background-size: cover;}
+									/*          */
+#fullpage div.section:nth-child(10){
+	background-image: url('../img/небо над водой.jpg') ;
+	background-size: cover;}
+#fullpage div.section:nth-child(11){
+	background-image: url('../img/Space.jpg') ;
+	background-size: cover;}
+									/*ЗАО "АНЦ"*/
+
+.main section:nth-child(1){
+	background-image: url('../img/Font.jpg') ;
+	background-size: cover;}
+									/*Акционерное общество «Астрономический научный центр»*/
+.main section:nth-child(2){
+	background-image: url('../img/blue.jpg') ;
+	background-size: cover;}
+									/*Пример работы телескопов*/
+.main section:nth-child(3){
+	background-image: url('../img/Earth.jpg') ;
+	background-size: cover;}
+									/*ЭОП-1*/
+.main section:nth-child(4){
+	background-image: url('../img/Blue Tuman.jpg') ;
+	background-size: cover;}
+									/*ЭОП-2*/
+.main section:nth-child(5){
+	background-image: url('../img/туманность.jpg') ;
+	background-size: cover;}
+									/*ЭОПЫ*/
+.main section:nth-child(6){
+	background-image: url('../img/Nebo.jpg') ;
+	background-size: cover;}
+									/*Экспериментальная база АНЦ*/
+.main section:nth-child(7){
+	background-image: url('../img/Вид из космоса.jpg') ;
+	background-size: cover;}
+									/*          */
+.main section:nth-child(8){
+	background-image: url('../img/небо над лесом.jpg') ;
+	background-size: cover;}
+									/*          */
+.main section:nth-child(9){
+	background-image: url('../img/Солнечное затмение.jpg') ;
+	background-size: cover;}
+									/*          */
+.main section:nth-child(10){
+	background-image: url('../img/небо над водой.jpg') ;
+	background-size: cover;}
+
+.onepage-pagination li a:before{
+	visibility: collapse;
+}
+.navbar-inverse .navbar-nav > li > a.active {
+
+	background: rgb(66, 66, 66);
+
+}
+#logotip{
+	padding-top: 10px;
+	-webkit-transform: rotate(0deg);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 600ms;
+	-moz-transform: rotate(0deg);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 600ms;
+}
+#logotip:hover{
+	-webkit-transform: rotate(360deg);
+	-webkit-transition-timing-function: ease-in;
+	-webkit-transition-duration: 650ms;
+	-moz-transform: rotate(360deg);
+	-moz-transition-timing-function: ease-in;
+	-moz-transition-duration: 650ms;
+}
+#LogoImg{
+	-webkit-transform: rotate(0deg);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 600ms;
+	-moz-transform: rotate(0deg);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 600ms;
+	/*-webkit-transform-origin: -250px 50px;*/
+	/*-ms-transform-origin: -250px 50px;*/
+	/*transform-origin: -250px 50px;*/
+
+}
+#LogoImg:hover{
+	-webkit-transform: rotate(360deg);
+	-webkit-transition-timing-function: ease-in;
+	-webkit-transition-duration: 650ms;
+	-moz-transform: rotate(360deg);
+	-moz-transition-timing-function: ease-in;
+	-moz-transition-duration: 650ms;
+
+}
+#myModal2{
+	padding-top: 10%;
+	padding-bottom: 10%;
+	vertical-align: middle;
+}
+
+
+.onepage-pagination li a.active,
+.dropdown-menu > .active > a,
+.dropdown-menu > .active > a:hover,
+.dropdown-menu > .active > a:focus {
+	background-image:linear-gradient(#805103, #940340);
+	color: #9d9d9d;
+}
+.navbar-nav > li > .dropdown-menu{
+	background-color: #262626;
+	color: #ffffff;
+}
+.dropdown-menu > li > a{
+	color: #ffffff;
+}

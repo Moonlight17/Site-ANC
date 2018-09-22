@@ -1,0 +1,539 @@
+/*div.HGBImg { 
+	display: inline-block; 
+	position: absolute; 
+	margin-top: -4%; margin-left: 30%; 
+}
+.opt{
+	border: 3px solid #ff000040;
+
+	opacity: 1;
+}
+.opt div{
+	display: none;
+}
+.opt:hover div{
+	display: block;
+}
+.opt:hover{
+	border: 5px solid #8800bb40;
+	display: block;
+	opacity: 1;
+}*/
+.UprEOPImg{
+	padding-left: 14%;
+}
+.Kompas{
+	padding-left: 14%;
+}
+.UprEOPImg1{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg1:hover{
+	-webkit-transform: scale(1.8,1.8) translate(200px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.8,1.8);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg2{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg2:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-200px, -190px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg3{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg3:hover{
+	-webkit-transform: scale(1.5,1.5) translate(110px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg4{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg4:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-110px, -120px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg5{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg5:hover{
+	-webkit-transform: scale(1.5,1.5) translate(0px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg6{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg6:hover{
+	-webkit-transform: scale(1.5,1.5) translate(150px, -120px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg7{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg7:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-50px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg8{
+	-webkit-transform: scale(0.7,0.7);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(0.7,0.7);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg8:hover{
+	-webkit-transform: scale(1.2,1.2) translate(00px, -170px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.2,1.2);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg9{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg9:hover{
+	-webkit-transform: scale(1.5,1.5) translate(30px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg10{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg10:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-150px, -120px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg11{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg11:hover{
+	-webkit-transform: scale(1.5,1.5) translate(110px, 150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg12{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg12:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-50px, 120px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg13{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg13:hover{
+	-webkit-transform: scale(1.5,1.5) translate(110px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg14{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.UprEOPImg14:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-50px, -120px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas1{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas1:hover{
+	-webkit-transform: scale(1.8,1.8) translate(-300px, 150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.8,1.8);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas2{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas2:hover{
+	-webkit-transform: scale(1.8,1.8) translate(-300px, -120px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.8,1.8);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas3{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas3:hover{
+	-webkit-transform: scale(1.5,1.5) translate(110px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas4{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas4:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-110px, -120px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas5{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas5:hover{
+	-webkit-transform: scale(1.9,1.9) translate(-270px, -70px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.9,1.9);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas6{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas6:hover{
+	-webkit-transform: scale(1.9,1.9) translate(-270px, -70px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.9,1.9);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas7{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas7:hover{
+	-webkit-transform: scale(1.5,1.5) translate(110px, -230px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas8{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas8:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-230px, -230px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas9{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas9:hover{
+	-webkit-transform: scale(1.5,1.5) translate(0px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas10{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas10:hover{
+	-webkit-transform: scale(1.5,1.5) translate(110px, -230px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas11{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas11:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-230px, -230px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas12{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas12:hover{
+	-webkit-transform: scale(1.5,1.5) translate(0px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas13{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas13:hover{
+	-webkit-transform: scale(1.9,1.9) translate(-270px, -70px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.9,1.9);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas14{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas14:hover{
+	-webkit-transform: scale(1.5,1.5) translate(110px, -230px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas15{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas15:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-230px, -230px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas16{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas16:hover{
+	-webkit-transform: scale(1.5,1.5) translate(0px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas17{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas17:hover{
+	-webkit-transform: scale(1.5,1.5) translate(10px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas18{
+	-webkit-transform: scale(1,1);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(1,1);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kompas18:hover{
+	-webkit-transform: scale(1.5,1.5) translate(-10px, -150px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}

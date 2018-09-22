@@ -1,0 +1,181 @@
+body{
+	min-width: 700px;
+	min-height: 100px;
+}
+	.leftimg  {
+		float: left; /* Выравнивание по правому краю  */ 
+		margin: 4px 0px  7px 7px; /* Отступы вокруг картинки */
+	}
+	.centerimg  {
+		float: none; /* Выравнивание по правому краю  */ 
+		margin: 4px 0px  7px 7px; /* Отступы вокруг картинки */
+	}
+	.rightimg  {
+		float: right; /* Выравнивание по правому краю  */ 
+		margin: 4px 0px  7px 7px; /* Отступы вокруг картинки */
+	}
+	.topimg  {
+		vertical-align: top;	/* Выравнивание по верхнему краю  */ 
+		margin: 4px 0px  7px 7px; /* Отступы вокруг картинки */
+	}
+
+.red-orange-brown {
+	background-image: radial-gradient(circle farthest-corner at 260px 130px, orange,24%, #f11);
+	color: transparent;
+	-webkit-background-clip: text;
+	background-clip: text;
+	font-size: 577%;
+}
+
+.description{
+	padding-top: 0;
+	padding-left: 30%;
+	padding-right: 30%;
+	height: 53%;
+	/*color: yellow;*/
+	/*font-size: 277%;*/
+}
+
+.gradient-text {
+  font-family: 'Rubik One', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  background: linear-gradient(45deg, #0B2349 33%, #0D61BC 66%, #8AA9D6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0B2349;
+  display: table;
+  margin: 20px auto;
+}
+
+
+.EOP-1{
+	font-size: 19px;
+	margin-left: 15%;
+	margin-right: 15%;
+	color: rgb(220, 220, 220);
+	background-color: #13131366;
+}
+.EOP-2{
+	padding-top: 20px;
+	color: white;
+	font-size: 19px;
+	margin-left: 15%;
+	margin-right: 15%;
+	color: rgb(230, 230, 230);
+	background-color: #23232377;
+}
+
+/*RKS*/
+
+	.AbzRKS{
+		text-indent: 30px;
+		font-size: 19px;
+		color: rgb(220,220,220);
+	}
+	.RKS{
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+
+/*HGB*/
+	.AbzHGB{
+		text-indent: 30px;
+		font-size: 19px;
+		color: rgb(220,220,220);
+		margin-bottom: 0px;
+	}
+	.HGB{
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+
+/*OES*/
+	.AbzOES{
+		text-indent: 30px;
+		font-size: 19px;
+		color: rgb(220,220,220);
+		margin-bottom: 0px;
+	}
+	.OES{
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+
+/*Genon*/
+	.AbzGenon{
+		text-indent: 30px;
+		font-size: 19px;
+		color: rgb(220,220,220);
+		margin-bottom: 0px;
+	}
+	.Genon{
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+
+/*GenonMax*/
+	.AbzGenonMax{
+		text-indent: 30px;
+		font-size: 19px;
+		color: rgb(220,220,220);
+		margin-bottom: 0px;
+	}
+	.GenonMax{
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+
+/*UprEOP*/
+	.UprEOP{
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+	.AbzUprEOP{
+		text-indent: 30px;
+		font-size: 19px;
+		color: rgb(220,220,220);
+		margin-bottom: 3px;
+	}
+
+/*Kompas*/
+	.AbzKMP{
+		text-indent: 30px;
+		font-size: 19px;
+		color: rgb(220,220,220);
+		margin-bottom: 0px;
+	}
+	.KMP{
+		margin-left: 15%;
+		margin-right: 15%;
+	}
+span.grad{
+	font-family: 'arial';
+	font-style: italic;
+	width: 592px;
+}
+.img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+	display: block;
+	max-width: 100%;
+	max-height: 400px;
+}
+.size{
+	padding-top: 3%;
+	padding-bottom:  3%; 
+}
+#carousel-example-generic, #carousel-example-generic1, #carousel-example-generic2 {
+	width: 35%; 
+}
+/*#CarouselEOP{
+	width: 700px;
+	max-height: 30%;
+}
+*/
+
+
+
+
+
+
+
+

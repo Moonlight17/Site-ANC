@@ -1,0 +1,184 @@
+.container {
+	display:inline-block;   
+	position:relative;
+}
+div.Kisl { 
+	display: inline-block; 
+	position: absolute; 
+	top: 22%; left: 63%; 
+}
+div.Krasnoyarsk { 
+	display: inline-block; 
+	position: absolute; 
+	top: 24%; left: 83%; 
+}
+div.Primor { 
+	display: inline-block; 
+	position: absolute; 
+	top: 28%; left: 107%; 
+}
+div.Blag { 
+	display: inline-block; 
+	position: absolute; 
+	top: 26%; left: 101%; 
+}
+div.P-K { 
+	display: inline-block; 
+	position: absolute; 
+	top: 21%; left: 109%; 
+}
+div.Brazil { 
+	display: inline-block; 
+	position: absolute; 
+	top: 48%; left: 20%; 
+}
+
+#BrazilImg{
+	height: 300px;
+}
+
+
+.opt{
+	border: 3px solid #ff000040;
+
+	opacity: 1;
+}
+.opt div{
+	display: none;
+}
+.opt:hover div{
+	display: block;
+}
+.opt:hover{
+	border: 5px solid #8800bb40;
+	display: block;
+	opacity: 1;
+}
+
+.Kisl div{
+    position: absolute; 
+    bottom: 10px; left: 0px; 
+    background-color: rgba(0,0,0,.4); 
+    padding: 5px 5px 5px 10px;
+    color: white
+}
+
+.Kisl{
+	-webkit-transform: scale(0.3,0.3);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(0.3,0.3);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Kisl:hover {
+	-webkit-transform: scale(1.5,1.5) translate(-70px, -30px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.5,1.5);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+
+.Krasnoyarsk div{
+    position: absolute; 
+    bottom: 10px; left: 0px; 
+    background-color: rgba(0,0,0,.4); 
+    padding: 5px 5px 5px 10px;
+    color: white;
+}
+
+.Krasnoyarsk{
+
+
+	-webkit-transform: scale(0.3,0.3);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+}
+.Krasnoyarsk:hover {
+	-webkit-transform: scale(1.5,1.5) translate(-158px, -100px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+}
+
+.Primor div{
+    position: absolute; 
+    bottom: 10px; left: 0px; 
+    background-color: rgba(0,0,0,.4); 
+    padding: 5px 5px 5px 10px;
+    color: white
+}
+
+.Primor{
+	-webkit-transform: scale(0.3,0.3);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+}
+.Primor:hover {
+	-webkit-transform: scale(2,2) translate(-70px, -50px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+}
+
+.Blag div{
+    position: absolute; 
+    bottom: 10px; left: 0px; 
+    background-color: rgba(0,0,0,.4); 
+    padding: 5px 5px 5px 10px;
+    color: white;
+}
+
+.Blag{
+	-webkit-transform: scale(0.3,0.3);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+}
+.Blag:hover {
+	-webkit-transform: scale(2,2) translate(-80px, -50px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+}
+
+.P-K div{
+    position: absolute; 
+    bottom: 10px; left: 0px; 
+    align-content: center;
+    background-color: rgba(0,0,0,.4); 
+    padding: 5px 5px 5px 10px;
+    color: white
+}
+
+.P-K{
+	-webkit-transform: scale(0.3,0.3);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+}
+.P-K:hover {
+	-webkit-transform: scale(1.5,1.5) translate(-170px, -30px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+}
+.Brazil div{
+    position: absolute; 
+    bottom: 10px; left: 0px; 
+    background-color: rgba(0,0,0,.4); 
+    padding: 5px 5px 5px 10px;
+    color: white
+}
+
+.Brazil{
+	-webkit-transform: scale(0.3,0.3);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;
+	-moz-transform: scale(0.3,0.3);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
+.Brazil:hover {
+	-webkit-transform: scale(1.2,1.2) translate(70px, -30px);
+	-webkit-transition-timing-function: ease-out;
+	-webkit-transition-duration: 550ms;;
+	-moz-transform: scale(1.2,1.2);
+	-moz-transition-timing-function: ease-out;
+	-moz-transition-duration: 550ms;
+}
