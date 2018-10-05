@@ -15,10 +15,7 @@ h1{
 	/*color: yellow;*/
 	font-size: 277%;
 }
-.title{
-	color: #fff;
-	padding-top: 14px;
-}
+
 .red-orange-brown {
 	background-image: radial-gradient(circle farthest-corner at 116px 130px, orange,24%, #f11);
 	color: transparent;
@@ -36,24 +33,23 @@ h1{
 .about{
 	/*padding-left: 1000px;*/
 	padding-left: 8%;
-	color: white;
+	color: #222;
 	font-size: 20px;
 }
 .EOP-1{
 	font-size: 19px;
 	margin-left: 15%;
 	margin-right: 15%;
-	color: rgb(220, 220, 220);
-	background-color: #13131366;
+	color: #222;
 }
 .EOP-2{
 	padding-top: 0px;
-	color: white;
+	color: #222;
 	font-size: 19px;
 	margin-left: 15%;
 	margin-right: 15%;
-	color: rgb(230, 230, 230);
-	background-color: #2c3a4266;
+
+
 }
 span.grad{
 	font-family: 'arial';
@@ -75,7 +71,7 @@ span.grad{
 .Work{
 	font-family: 'arial';
 	font-style: italic;
-	color: yellow;
+	color: #222;
 	padding-left: 29%;
 	padding-right: 29%;
 	font-size: 50px;
